@@ -1,2 +1,30 @@
-# conduit
-a multi-tenant collaboration platform built in Go, designed to explore production-grade backend engineering, concurrency, authorization, transactional data consistency, and distributed-system concepts.
+# Conduit
+
+A multi-tenant collaboration platform built with Go.
+
+## Purpose
+
+Conduit is a production-oriented backend project designed to explore:
+
+- Go backend architecture
+- Multi-tenancy
+- Authentication and authorization
+- PostgreSQL
+- Transactions
+- Concurrency
+- Distributed systems
+- Observability
+- Testing
+- Production engineering
+
+## Status
+
+Under active development.
+
+## Tech Stack
+
+- Go
+- Fiber
+- GORM
+- PostgreSQL
+- Docker
